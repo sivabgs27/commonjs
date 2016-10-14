@@ -1,0 +1,42 @@
+{
+  "name": "common-nodejs",
+  "version": "1.0.329",
+  "private": true,
+  "main": "src/index.js",
+  "dependencies": {
+    "amqplib": "0.4.1",
+    "ascii-banner": "0.0.2",
+    "async": "1.5.2",
+    "circuit-breaker-js": "0.0.1",
+    "clone": "1.0.2",
+    "collections": "1.2.3",
+    "deasync": "0.1.4",
+    "fluent-logger": "0.4.1",
+    "forever-monitor": "1.7.0",
+    "gc-profiler": "1.3.1",
+    "ldapjs": "1.0.0",
+    "moment": "2.10.6",
+    "mongodb": "2.1.4",
+    "node-etcd": "4.2.1",
+    "node-expat": "2.3.11",
+    "node-uuid": "1.4.3",
+    "node-validator": "0.1.21",
+    "request-json": "0.5.3",
+    "restify": "4.0.3",
+    "soap": "0.16.0",
+    "response-time": "2.3.1"
+  },
+  "devDependencies": {
+    "chai": "3.4.0",
+    "gulp": "3.9.0",
+    "gulp-typescript": "2.9.2",
+    "mocha": "2.3.2",
+    "mocha-bamboo-reporter": "1.1.0"
+  },
+  "gitHead": "e6de8162369a1ff8d2e4206803c7a0ac27131409",
+  "readme": "ERROR: No README data found!",
+  "_id": "common-nodejs@1.0.329",
+  "_shasum": "b82a6c638d7365b8600436948f5900ecc39df980",
+  "_from": "git+ssh://git02.ae.sda.corp.telstra.com/ds/common-nodejs.git#v1.0.329",
+  "_resolved": "git+ssh://git02.ae.sda.corp.telstra.com/ds/common-nodejs.git#e6de8162369a1ff8d2e4206803c7a0ac27131409"
+}

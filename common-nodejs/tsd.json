@@ -1,0 +1,33 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "mocha/mocha.d.ts": {
+      "commit": "b3aeee64552e324581fdbe0926f4a96e981e451b"
+    },
+    "chai/chai.d.ts": {
+      "commit": "b3aeee64552e324581fdbe0926f4a96e981e451b"
+    },
+    "node-uuid/node-uuid.d.ts": {
+      "commit": "23dd9ba5841a5ba23cbc13d02f9717ff86e4f962"
+    },
+    "moment/moment.d.ts": {
+      "commit": "d0adccc436197cc7c3559322721e9df86b892bd6"
+    },
+    "moment/moment-node.d.ts": {
+      "commit": "d0adccc436197cc7c3559322721e9df86b892bd6"
+    },
+    "amqplib/amqplib.d.ts": {
+      "commit": "e5a27ea95e47b95333784f1f0d590127b4e39a89"
+    },
+    "when/when.d.ts": {
+      "commit": "5c3e47967affa3c4128a3875d1664ba206ae1b0f"
+    },
+    "async/async.d.ts": {
+      "commit": "b10e5ade29708bb0a7d21916a9fe289973520e89"
+    }
+  }
+}

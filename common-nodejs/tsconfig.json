@@ -1,0 +1,50 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": false,
+    "sourceMap": true
+  },
+  "files": [
+    "./src/index.d.ts",
+    "./typings/tsd.d.ts",
+
+    "./test/logger.ts",
+    "./test/utils.ts",
+    "./test/bus.ts",
+    "./test/templates.ts",
+    "./test/multi-templates.ts",
+    "./test/invokers.ts",
+    "./test/service-invoker.ts",
+    "./test/service.ts",
+    "./test/ssl-config.ts",
+    "./test/soap-invoker.ts",
+    "./test/ping-pong-template.ts",
+    "./test/diagnostics.ts",
+    "./test/conditional-template.ts",
+    "./test/composite-template.ts",
+
+    "./src/index.ts",
+    "./src/service-info.ts",
+    "./src/easy-flow.ts",
+    "./src/logger.ts",
+    "./src/messages.ts",
+    "./src/mongo-database-client.ts",
+    "./src/mongo-invoker.ts",
+    "./src/bus.ts",
+    "./src/validators.ts",
+    "./src/service.ts",
+    "./src/json-client.ts",
+    "./src/json-invoker.ts",
+    "./src/soap-invoker.ts",
+    "./src/ldap-invoker.ts",
+    "./src/service-invoker.ts",
+    "./src/ping-pong-template.ts",
+    "./src/templates.ts",
+    "./src/conditional-template.ts",
+    "./src/utils.ts",
+    "./src/context-logger.ts",
+    "./src/diagnostics.ts",
+    "./src/ssl-config.ts"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "mocha-bamboo-reporter",
+  "version": "1.1.1",
+  "description": "A mocha reporter to allow Atlassian Bamboo to parse results",
+  "keywords": [
+    "mocha",
+    "reporter",
+    "bamboo",
+    "ci"
+  ],
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "author": {
+    "name": "Issac Goldstand",
+    "email": "margol@beamartyr.net",
+    "url": "http://www.beamartyr.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/issacg/mocha-bamboo-reporter.git"
+  },
+  "main": "lib/bamboo.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "mocha": ">=1.8.1"
+  },
+  "gitHead": "bc35c983a38ab02fdd0f2d117b70daa0ef8bbbc8",
+  "bugs": {
+    "url": "https://github.com/issacg/mocha-bamboo-reporter/issues"
+  },
+  "homepage": "https://github.com/issacg/mocha-bamboo-reporter#readme",
+  "_id": "mocha-bamboo-reporter@1.1.1",
+  "scripts": {},
+  "_shasum": "baa3d024641b736ace1afc9fa0d188413ab7e4f9",
+  "_from": "mocha-bamboo-reporter@>=1.1.0 <2.0.0",
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "4.4.2",
+  "_npmUser": {
+    "name": "issac",
+    "email": "margol@beamartyr.net"
+  },
+  "maintainers": [
+    {
+      "name": "issac",
+      "email": "margol@beamartyr.net"
+    }
+  ],
+  "dist": {
+    "shasum": "baa3d024641b736ace1afc9fa0d188413ab7e4f9",
+    "tarball": "https://registry.npmjs.org/mocha-bamboo-reporter/-/mocha-bamboo-reporter-1.1.1.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/mocha-bamboo-reporter-1.1.1.tgz_1462378466592_0.23701240518130362"
+  },
+  "_resolved": "https://registry.npmjs.org/mocha-bamboo-reporter/-/mocha-bamboo-reporter-1.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
